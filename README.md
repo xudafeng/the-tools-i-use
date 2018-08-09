@@ -13,6 +13,7 @@
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 - [Owl-redirector](//github.com/meowtec/Owl-redirector) - Chrome HTTP request redirector.
+- [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-GB) - OctoLinker is a browser extension for Chrome.
 
 ## MacOS Apps
 
