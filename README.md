@@ -20,7 +20,8 @@
 
 - [GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide.
 - [Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.
-- [Sequel Pro](https://www.sequelpro.com/) - application for working with SQLite databases.
+- [SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.
+- [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
 
 ## Node.js Tools
 
