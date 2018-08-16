@@ -23,9 +23,10 @@
 - [SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
 
-## Node.js Tools
+## CLI Tools
 
-- [openit](//github.com/xudafeng/openit)
+- [openit](//github.com/xudafeng/openit) - Open remote git website.
+- [git-extras](//github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
 
 ## Slide
 
