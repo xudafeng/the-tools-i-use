@@ -22,6 +22,7 @@
 - [Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.
 - [SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
+- [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows.
 
 ## CLI Tools
 
