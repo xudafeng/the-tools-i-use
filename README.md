@@ -15,6 +15,7 @@
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 - [Owl-redirector](//github.com/meowtec/Owl-redirector) - Chrome HTTP request redirector.
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-GB) - OctoLinker is a browser extension for Chrome.
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Make your computer run smoothly by suspending the tabs you aren't using.
 
 ## MacOS Apps
 
@@ -23,6 +24,8 @@
 - [SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
 - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows.
+- [OmniDiskSweeper](https://www.omnigroup.com/more) - Delete with an Iron Fist.
+- [LICEcap](https://github.com/justinfrankel/licecap) - simple animated screen capture tool for Windows and OS X.
 
 ## CLI Tools
 
