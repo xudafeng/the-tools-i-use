@@ -7,6 +7,7 @@
 - [macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.
 - [vimrc](//github.com/xudafeng/vimrc) - my .vimrc.
 - [Quiver](http://happenapps.com) - The Programmer's Notebook.
+- [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
 
 ## Chrome Extensions
 
