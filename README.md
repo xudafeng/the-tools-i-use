@@ -16,17 +16,19 @@
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 - [Owl-redirector](//github.com/meowtec/Owl-redirector) - Chrome HTTP request redirector.
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-GB) - OctoLinker is a browser extension for Chrome.
-- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Make your computer run smoothly by suspending the tabs you aren't using.
+- [<s>The Suspender</s>](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Make your computer run smoothly by suspending the tabs you aren't using.
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Browser extension that brings your GitHub experience to the next level.
 
 ## MacOS Apps
 
 - [GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide.
-- [Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.
-- [SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.
+- [<s>Go2Shell</s>](http://zipzapmac.com/go2shell) - Instant Terminal Window.
+- [<s>SQLPro for SQLite</s>](https://www.sqlitepro.com/) - macOS SQLite Management.
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
 - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows.
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Delete with an Iron Fist.
 - [LICEcap](https://github.com/justinfrankel/licecap) - simple animated screen capture tool for Windows and OS X.
+- [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
 
 ## CLI Tools
 
