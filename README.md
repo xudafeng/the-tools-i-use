@@ -11,19 +11,20 @@
 
 ## Chrome Extensions
 
-- [UC Qr Code](https://chrome.google.com/webstore/detail/uc-qr-code/nhelohnehpahakjoklmodmogclacjgdj) - Create Qr Images Instantly! Download and Share Easily. Free!
+- <s>[UC Qr Code](https://chrome.google.com/webstore/detail/uc-qr-code/nhelohnehpahakjoklmodmogclacjgdj) - Create Qr Images Instantly! Download and Share Easily. Free!</s>
+- [Quick QR](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - Create Qr Images.
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 - [Owl-redirector](//github.com/meowtec/Owl-redirector) - Chrome HTTP request redirector.
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-GB) - OctoLinker is a browser extension for Chrome.
-- [<s>The Suspender</s>](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Make your computer run smoothly by suspending the tabs you aren't using.
+- <s>[The Suspender](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Make your computer run smoothly by suspending the tabs you aren't using.</s>
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Browser extension that brings your GitHub experience to the next level.
 
 ## MacOS Apps
 
 - [GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide.
-- [<s>Go2Shell</s>](http://zipzapmac.com/go2shell) - Instant Terminal Window.
-- [<s>SQLPro for SQLite</s>](https://www.sqlitepro.com/) - macOS SQLite Management.
+- <s>[Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.</s>
+- <s>[SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.</s>
 - [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
 - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows.
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Delete with an Iron Fist.
