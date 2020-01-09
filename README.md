@@ -9,6 +9,11 @@
 - [Quiver](http://happenapps.com) - The Programmer's Notebook.
 - [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
 
+## Online tools
+
+- [whimsical](https://whimsical.com/) - The Visual Workspace.
+- [Yuque](https://yuque.com) - Professional note and knowledge-based systems.
+
 ## Chrome Extensions
 
 - <s>[UC Qr Code](https://chrome.google.com/webstore/detail/uc-qr-code/nhelohnehpahakjoklmodmogclacjgdj) - Create Qr Images Instantly! Download and Share Easily. Free!</s>
