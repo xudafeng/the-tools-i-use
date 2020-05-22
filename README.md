@@ -4,9 +4,9 @@
 
 ## Editor
 
-- [macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.
+- <s>[macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.</s>
 - [vimrc](//github.com/xudafeng/vimrc) - my .vimrc.
-- [Quiver](http://happenapps.com) - The Programmer's Notebook.
+- <s>[Quiver](http://happenapps.com) - The Programmer's Notebook.</s>
 - [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
 
 ## Online tools
@@ -30,11 +30,12 @@
 - [GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide.
 - <s>[Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.</s>
 - <s>[SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.</s>
-- [Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.
+- <s>[Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.</s>
 - [Sourcetree](https://www.sourcetreeapp.com/) - Free Git GUI for Mac and Windows.
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Delete with an Iron Fist.
 - [LICEcap](https://github.com/justinfrankel/licecap) - simple animated screen capture tool for Windows and OS X.
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
+- [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
 
 ## CLI Tools
 
