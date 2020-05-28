@@ -12,7 +12,6 @@
 ## Online tools
 
 - [whimsical](https://whimsical.com/) - The Visual Workspace.
-- [Yuque](https://yuque.com) - Professional note and knowledge-based systems.
 
 ## Chrome Extensions
 
