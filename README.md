@@ -35,6 +35,7 @@
 - [LICEcap](https://github.com/justinfrankel/licecap) - simple animated screen capture tool for Windows and OS X.
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
 - [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
+- [Kap](https://getkap.co) - An open-source screen recorder built with web technology.
 
 ## CLI Tools
 
