@@ -5,7 +5,7 @@
 ## Editor
 
 - <s>[macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.</s>
-- [vimrc](//github.com/xudafeng/vimrc) - my .vimrc.
+- <s>[vimrc](//github.com/xudafeng/vimrc) - my .vimrc.</s>
 - <s>[Quiver](http://happenapps.com) - The Programmer's Notebook.</s>
 - [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
 
@@ -26,7 +26,7 @@
 
 ## MacOS Apps
 
-- [GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide.
+- <s>[GIFBrewery](http://gifbrewery.com/) - Creating fine-crafted GIFs for Mac users worldwide</s>.
 - <s>[Go2Shell](http://zipzapmac.com/go2shell) - Instant Terminal Window.</s>
 - <s>[SQLPro for SQLite](https://www.sqlitepro.com/) - macOS SQLite Management.</s>
 - <s>[Visual Paradigm](https://www.visual-paradigm.com/) - Leading UML, BPMN, EA, Agile and Project Management Software.</s>
@@ -36,14 +36,21 @@
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
 - [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
 - [Kap](https://getkap.co) - An open-source screen recorder built with web technology.
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly.
+- [Charles](https://www.charlesproxy.com/) - Web Debugging Proxy.
+- [medis](https://github.com/luin/medis) - Client application for Redis.
 
 ## CLI Tools
 
 - [openit](//github.com/xudafeng/openit) - Open remote git website.
-- [git-extras](//github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
 - [startserver](//github.com/xudafeng/startserver) - Yet another http server just for fun.
 - [pullgit](//github.com/xudafeng/pullgit) - An easy `git pull` & `git fetch -p`.
+- [brew](https://brew.sh/) - The Missing Package Manager for macOS.
+  - [ack](https://beyondgrep.com/install) - Search for PATTERN in each source file.
+  - [cmake](https://cmake.org/) - Designed to build, test and package software.
+  - [autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.
+  - [git-extras](https://github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
 
 ## Slide
 
-- [toolkit-for-developers](//xudafeng.github.io/slide/archives/toolkit-for-developers/)
+- [toolkit-for-developers](https://xudafeng.github.io/slide/archives/toolkit-for-developers/)
