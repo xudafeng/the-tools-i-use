@@ -39,6 +39,7 @@
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly.
 - [Charles](https://www.charlesproxy.com/) - Web Debugging Proxy.
 - [medis](https://github.com/luin/medis) - Client application for Redis.
+- [DevUtils](https://github.com/xudafeng/DevUtils-app) - Offline Toolbox for Developers(build from source).
 
 ## CLI Tools
 
