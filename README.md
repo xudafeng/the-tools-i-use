@@ -8,6 +8,10 @@
 - <s>[vimrc](//github.com/xudafeng/vimrc) - my .vimrc.</s>
 - <s>[Quiver](http://happenapps.com) - The Programmer's Notebook.</s>
 - [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+  - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 
 ## Online tools
 
