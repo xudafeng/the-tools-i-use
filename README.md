@@ -21,7 +21,7 @@
 
 - <s>[UC Qr Code](https://chrome.google.com/webstore/detail/uc-qr-code/nhelohnehpahakjoklmodmogclacjgdj) - Create Qr Images Instantly! Download and Share Easily. Free!</s>
 - [Quick QR](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - Create Qr Images.
-- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration.
+- <s>[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - Replace new tab page with a personal dashboard featuring to-do, weather, and inspiration.</s>
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 - [Owl-redirector](//github.com/meowtec/Owl-redirector) - Chrome HTTP request redirector.
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp?hl=en-GB) - OctoLinker is a browser extension for Chrome.
