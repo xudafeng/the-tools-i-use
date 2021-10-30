@@ -2,7 +2,7 @@
 
 ---
 
-## Editor
+## Editor And IDE
 
 - <s>[macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.</s>
 - <s>[vimrc](//github.com/xudafeng/vimrc) - my .vimrc.</s>
@@ -12,6 +12,10 @@
   - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
   - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+  - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Android Studio](https://developer.android.com/studio)
+- [Xcode](https://developer.apple.com/xcode/)
 
 ## Online tools
 
@@ -55,6 +59,7 @@
   - [cmake](https://cmake.org/) - Designed to build, test and package software.
   - [autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.
   - [git-extras](https://github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
+  - [direnv](https://direnv.net/)
 
 ## Slide
 
