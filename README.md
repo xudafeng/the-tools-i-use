@@ -71,10 +71,11 @@
 - [pullgit](//github.com/xudafeng/pullgit) - An easy `git pull` & `git fetch -p`.
 - [brew](https://brew.sh/) - The Missing Package Manager for macOS.
   - [ack](https://beyondgrep.com/install) - Search for PATTERN in each source file.
-  - [cmake](https://cmake.org/) - Designed to build, test and package software.
-  - [autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.
+  - <s>[cmake](https://cmake.org/) - Designed to build, test and package software.</s>
+  - <s>[autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.</s>
   - [git-extras](https://github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
   - [direnv](https://direnv.net/) - unclutter your .profile
+  - [yuque](https://yuque.com) - Notes and knowledge based system.
 
 ## Slide
 
