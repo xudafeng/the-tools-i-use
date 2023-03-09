@@ -44,11 +44,12 @@
 - <s>[LICEcap](https://github.com/justinfrankel/licecap) - simple animated screen capture tool for Windows and OS X.</s>
 - [Navicat Premium](https://www.navicat.com.cn/products/navicat-premium) - Enhanced for complete flexibility.
 - [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
-- [Kap](https://getkap.co) - An open-source screen recorder built with web technology.
+- <s>[Kap](https://getkap.co) - An open-source screen recorder built with web technology.</s>
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly.
 - [Charles](https://www.charlesproxy.com/) - Web Debugging Proxy.
 - <s>[medis](https://github.com/luin/medis) - Client application for Redis.</s>
 - <s>[DevUtils](https://github.com/xudafeng/DevUtils-app) - Offline Toolbox for Developers(build from source).</s>
+- [gifski](https://gif.ski/) - highest-quality GIF converter
 
 ## Stay in the Dock
 
