@@ -50,6 +50,7 @@
 - <s>[medis](https://github.com/luin/medis) - Client application for Redis.</s>
 - <s>[DevUtils](https://github.com/xudafeng/DevUtils-app) - Offline Toolbox for Developers(build from source).</s>
 - [gifski](https://gif.ski/) - highest-quality GIF converter
+- [RunCat](https://kyome.io/runcat/index.html) - Cat living in the menubar.
 
 ## Stay in the Dock
 
