@@ -32,6 +32,7 @@
 - <s>[The Suspender](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Make your computer run smoothly by suspending the tabs you aren't using.</s>
 - <s>[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Browser extension that brings your GitHub experience to the next level.</s>
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [Yuque](https://chrome.google.com/webstore/detail/hnbdgfongnkfgnbpamndfiiedhapfecn) - yuque.com
 
 ## MacOS Apps
 
@@ -51,6 +52,7 @@
 - <s>[DevUtils](https://github.com/xudafeng/DevUtils-app) - Offline Toolbox for Developers(build from source).</s>
 - [gifski](https://gif.ski/) - highest-quality GIF converter
 - [RunCat](https://kyome.io/runcat/index.html) - Cat living in the menubar.
+- [gestimer](https://maddin.io/gestimer) - Timers & Reminders Made Simple.
 
 ## Stay in the Dock
 
