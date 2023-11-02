@@ -53,6 +53,7 @@
 - [gifski](https://gif.ski/) - highest-quality GIF converter
 - [RunCat](https://kyome.io/runcat/index.html) - Cat living in the menubar.
 - [gestimer](https://maddin.io/gestimer) - Timers & Reminders Made Simple.
+- [KeyClu](https://github.com/Anze/KeyCluCask) - just press ⌘ twice and hold to see the list.
 
 ## Stay in the Dock
 
