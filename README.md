@@ -13,7 +13,7 @@
   - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
   - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-  - [GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - <s>[GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)</s>
 - [Android Studio](https://developer.android.com/studio)
 - [Xcode](https://developer.apple.com/xcode/)
 
@@ -46,12 +46,12 @@
 - [Yuque](https://www.yuque.com/install/desktop) - Professional notes and knowledge base.
 - <s>[Kap](https://getkap.co) - An open-source screen recorder built with web technology.</s>
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly.
-- [Charles](https://www.charlesproxy.com/) - Web Debugging Proxy.
+- <s>[Charles](https://www.charlesproxy.com/) - Web Debugging Proxy.</s>
 - <s>[medis](https://github.com/luin/medis) - Client application for Redis.</s>
 - <s>[DevUtils](https://github.com/xudafeng/DevUtils-app) - Offline Toolbox for Developers(build from source).</s>
 - [gifski](https://gif.ski/) - highest-quality GIF converter
 - [RunCat](https://kyome.io/runcat/index.html) - Cat living in the menubar.
-- [gestimer](https://maddin.io/gestimer) - Timers & Reminders Made Simple.
+- <s>[gestimer](https://maddin.io/gestimer) - Timers & Reminders Made Simple.</s>
 - [KeyClu](https://github.com/Anze/KeyCluCask) - just press ⌘ twice and hold to see the list.
 
 ## Stay in the Dock
@@ -59,23 +59,23 @@
 0. Finder
 0. QQ Music
 0. NetEase Email
-0. Yuque
 0. Chrome
-0. Android Studio
-0. Xcode
-0. Terminal
-0. SourceTree
+0. Yuque
 0. DingTalk
+0. Cursor
+0. SourceTree
+0. Terminal
 0. Wechat
 0. Navicat
+0. Telegram
 
 ## CLI Tools
 
 - [openit](//github.com/xudafeng/openit) - Open remote git website.
-- [startserver](//github.com/xudafeng/startserver) - Yet another http server just for fun.
+- <s>[startserver](//github.com/xudafeng/startserver) - Yet another http server just for fun.</s>
 - [pullgit](//github.com/xudafeng/pullgit) - An easy `git pull` & `git fetch -p`.
 - [brew](https://brew.sh/) - The Missing Package Manager for macOS.
-  - [ack](https://beyondgrep.com/install) - Search for PATTERN in each source file.
+  - <s>[ack](https://beyondgrep.com/install) - Search for PATTERN in each source file.</s>
   - <s>[cmake](https://cmake.org/) - Designed to build, test and package software.</s>
   - <s>[autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.</s>
   - [git-extras](https://github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
