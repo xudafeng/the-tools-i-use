@@ -63,6 +63,7 @@
 0. Yuque
 0. DingTalk
 0. Cursor
+0. Ghostty
 0. SourceTree
 0. Terminal
 0. Wechat
