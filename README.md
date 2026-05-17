@@ -84,6 +84,10 @@
   - [direnv](https://direnv.net/) - unclutter your .profile
   - <s>[yuque](https://yuque.com) - Notes and knowledge based system.</s>
 
+## Hardware
+
+- [DJI Mic 2](https://www.dji.com/mic-2) - Wireless Microphone.
+
 ## Slide
 
 - [toolkit-for-developers](https://xudafeng.github.io/slide/archives/toolkit-for-developers/)
