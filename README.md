@@ -7,12 +7,12 @@
 - <s>[macvim](//github.com/macvim-dev/macvim) - the text editor - for MacOS.</s>
 - <s>[vimrc](//github.com/xudafeng/vimrc) - my .vimrc.</s>
 - <s>[Quiver](http://happenapps.com) - The Programmer's Notebook.</s>
-- [VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.
-  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
-  - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
-  - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- <s>[VS Code](https://code.visualstudio.com/) - Code editing redefined by Greate MS.</s>
+  - <s>[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)</s>
+  - <s>[Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)</s>
+  - <s>[CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)</s>
+  - <s>[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)</s>
+  - <s>[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)</s>
   - <s>[GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)</s>
 - [Android Studio](https://developer.android.com/studio)
 - [Xcode](https://developer.apple.com/xcode/)
@@ -63,9 +63,10 @@
 0. Yuque
 0. DingTalk
 0. Cursor
+0. Codex
 0. Ghostty
 0. SourceTree
-0. Terminal
+0. ShanDianShuo
 0. Wechat
 0. Navicat
 0. Telegram
@@ -81,7 +82,7 @@
   - <s>[autojump](https://github.com/wting/autojump) - easily navigate directories from the command line.</s>
   - [git-extras](https://github.com/tj/git-extras) - repo summary, repl, changelog population, author commit percentages and more.
   - [direnv](https://direnv.net/) - unclutter your .profile
-  - [yuque](https://yuque.com) - Notes and knowledge based system.
+  - <s>[yuque](https://yuque.com) - Notes and knowledge based system.</s>
 
 ## Slide
 
