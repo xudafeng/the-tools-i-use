@@ -62,14 +62,11 @@
 0. Chrome
 0. Yuque
 0. DingTalk
-0. Cursor
-0. Codex
+0. [Zed](https://zed.dev)
 0. Ghostty
 0. SourceTree
-0. ShanDianShuo
 0. Wechat
 0. Navicat
-0. Telegram
 
 ## CLI Tools
 
